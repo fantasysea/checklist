@@ -1,0 +1,3 @@
+include ':checklistlibrary'
+include ':app'
+rootProject.name = "MySafebox"
